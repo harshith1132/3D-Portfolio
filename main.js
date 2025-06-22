@@ -1,3 +1,4 @@
+console.log("main.js is loaded");
 // Setup scene, camera, renderer
 const scene = new THREE.Scene();
 scene.background = new THREE.Color(0x111111);
